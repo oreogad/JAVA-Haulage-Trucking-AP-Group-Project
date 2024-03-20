@@ -1,0 +1,6 @@
+[INFO ] 2024-03-15 19:44:34.782 [main] LoggingExample - info test
+[DEBUG] 2024-03-15 19:44:34.790 [main] LoggingExample - debug test
+[ERROR] 2024-03-15 19:44:34.791 [main] LoggingExample - error test
+[TRACE] 2024-03-15 19:44:34.791 [main] LoggingExample - trace test
+[FATAL] 2024-03-15 19:44:34.791 [main] LoggingExample - fatal test
+[WARN ] 2024-03-15 19:44:34.792 [main] LoggingExample - warn test
