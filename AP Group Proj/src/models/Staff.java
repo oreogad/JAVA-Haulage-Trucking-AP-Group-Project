@@ -1,7 +1,8 @@
 package models;
 
-public class Staff {
-
+public class Staff implements Payable{
+	
+	
 	private int staffId;
 	private String firstName;
 	private String lastName;
@@ -83,4 +84,13 @@ public class Staff {
 				+ "\nAddress: " + address.toString() + "\nTelephone: " + telephone + "\nEmail: " + email + "\nPosition: " + position
 				+ "\nStatus: " + status;
 	}
+	@Override
+	public void generatePaySlip() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	
+	
+
 }
